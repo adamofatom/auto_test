@@ -1,0 +1,182 @@
+2019-04-15 13:12:08,457 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:12:08,458 - sendEmail.py:[26] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:12:08,832 - sendEmail.py:[43] - [ERROR] - connect [<smtplib.SMTP object at 0x7fbdea989f60>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/models/sendEmail.py", line 41, in sendMail
+    smtp.login(self._fromUser, self._emailPass)
+  File "/usr/lib/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2019-04-15 13:13:07,464 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:13:07,464 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:13:07,968 - sendEmail.py:[44] - [ERROR] - connect [<smtplib.SMTP object at 0x7f56d0f3def0>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/models/sendEmail.py", line 42, in sendMail
+    smtp.login(self._fromUser, self._emailPass)
+  File "/usr/lib/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2019-04-15 13:13:56,535 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:13:56,535 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:13:57,086 - sendEmail.py:[44] - [ERROR] - connect [<smtplib.SMTP object at 0x7fe9cdd8df60>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/models/sendEmail.py", line 42, in sendMail
+    smtp.login(self._fromUser, self._emailPass)
+  File "/usr/lib/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2019-04-15 13:18:44,438 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:18:44,438 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:18:44,913 - sendEmail.py:[44] - [ERROR] - connect [<smtplib.SMTP object at 0x7f807dd3ef28>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/models/sendEmail.py", line 42, in sendMail
+    smtp.login(self._fromUser, self._emailPass)
+  File "/usr/lib/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2019-04-15 13:32:08,354 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:32:08,355 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:32:10,048 - sendEmail.py:[47] - [INFO] - email server [<smtplib.SMTP object at 0x7fdaa3397f98>] login success!
+2019-04-15 13:32:10,713 - sendEmail.py:[55] - [INFO] - send emial successed
+2019-04-15 13:34:33,305 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:34:33,305 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:34:33,308 - sendEmail.py:[44] - [ERROR] - connect [<smtplib.SMTP object at 0x7f6fcaeeaf98>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/models/sendEmail.py", line 41, in sendMail
+    smtp.connect(self._server)
+  File "/usr/lib/python3.6/smtplib.py", line 336, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.6/smtplib.py", line 307, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.6/socket.py", line 704, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+2019-04-15 13:35:19,307 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:35:33,430 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:35:33,431 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:35:33,680 - sendEmail.py:[47] - [INFO] - email server [<smtplib.SMTP object at 0x7f97d6c7ef98>] login success!
+2019-04-15 13:35:34,422 - sendEmail.py:[55] - [INFO] - send emial successed
+2019-04-15 13:35:46,554 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:35:46,555 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:35:46,807 - sendEmail.py:[47] - [INFO] - email server [<smtplib.SMTP object at 0x7f7bfbea9fd0>] login success!
+2019-04-15 13:35:48,574 - sendEmail.py:[55] - [INFO] - send emial successed
+2019-04-15 13:46:40,773 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:46:53,994 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-15 13:46:53,995 - sendEmail.py:[61] - [ERROR] - open or read file [receiver.txt] failed,No such file or directory: /Users/guchenghao/project/oatest/oaTail/data/testData
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/models/sendEmail.py", line 58, in getReciver
+    with open(os.path.join(daPath,filename)) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/guchenghao/project/oatest/oaTail/data/testData/receiver.txt'
+2019-04-15 13:48:58,134 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 13:49:15,841 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 13:49:20,966 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 13:49:40,485 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 13:50:00,065 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 13:50:10,882 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 13:50:45,376 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 13:53:35,842 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 13:53:35,842 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-15 13:53:36,096 - sendEmail.py:[47] - [INFO] - email server [<smtplib.SMTP object at 0x7fd396bacfd0>] login success!
+2019-04-15 13:53:36,702 - sendEmail.py:[55] - [INFO] - send emial successed
+2019-04-15 14:12:38,596 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:12:49,203 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:12:51,125 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="8c75285f9446b922c11922cb4edf8cb1")>] successed !
+2019-04-15 14:12:51,240 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:12:52,705 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:12:52,705 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:12:52,705 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:12:53,090 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:12:58,152 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:14:12,476 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:14:14,289 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c4a49e0a89b1f5aa14615a065fc47b87")>] successed !
+2019-04-15 14:14:14,412 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:14:15,774 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:14:15,775 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:14:15,775 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:14:16,031 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:14:21,094 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:14:49,119 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:14:50,834 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c4a5b6ebf7599f61e47ad073df100945")>] successed !
+2019-04-15 14:14:50,948 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:14:52,377 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:14:52,377 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:14:52,377 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:14:52,748 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:14:52,805 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:15:09,747 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:15:25,597 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:15:27,334 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7b047dd09cfe76b44bcc28c5e23f68c6")>] successed !
+2019-04-15 14:15:27,458 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:15:28,844 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:15:28,845 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:15:28,845 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:15:29,075 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:15:32,134 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:15:41,609 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:15:43,386 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="22606ae6f86a81f03c825f6a7290b4d5")>] successed !
+2019-04-15 14:15:43,507 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:15:44,882 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:15:44,883 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:15:44,883 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:15:45,133 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:15:48,191 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:17:08,083 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:20:36,578 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:20:50,909 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:20:52,664 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c4a952fb6aad0e540ec66e606d318fbb")>] successed !
+2019-04-15 14:20:52,783 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:20:54,158 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:20:54,158 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:20:54,158 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:20:54,400 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:20:57,463 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:22:49,069 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:22:50,793 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="548e62c3efb28e99ce98d0e01f406c5a")>] successed !
+2019-04-15 14:22:50,933 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:22:59,926 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:22:59,926 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:22:59,926 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:23:00,166 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:23:03,227 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:23:52,942 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:23:54,692 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9aa0ef7fd52c575ef4e5b945b56b9118")>] successed !
+2019-04-15 14:23:54,829 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:24:07,154 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:24:07,154 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:24:07,154 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:24:08,610 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:24:11,669 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:25:01,351 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:25:03,089 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5291f3179fdbda9ddb7bb1daf0bf0bf1")>] successed !
+2019-04-15 14:25:03,206 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:25:04,732 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:25:04,732 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:25:04,732 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:25:04,976 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:25:08,034 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-15 14:25:43,081 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-15 14:25:44,835 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="61d1b38bb48a3af535f41863ebd1d39e")>] successed !
+2019-04-15 14:25:44,941 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-15 14:25:46,272 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-15 14:25:46,272 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-15 14:25:46,272 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-15 14:25:46,650 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-15 14:25:49,709 - myunittest.py:[38] - [INFO] - quit the browser success

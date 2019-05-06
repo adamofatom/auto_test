@@ -1,0 +1,17 @@
+2019-04-13 16:56:48,177 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-13 16:56:48,184 - doExecl.py:[24] - [INFO] - initing  class readExcel
+2019-04-13 16:56:50,078 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b068a4c09d2c4958ab627e38bc2d6a29")>] successed !
+2019-04-13 16:56:50,219 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-13 16:56:50,951 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-13 16:56:50,951 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-13 16:56:50,951 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-13 16:56:51,521 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-13 16:56:56,599 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-13 16:59:52,494 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-13 16:59:54,423 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="eca3b6a97b4a56fb2fdbce78791ee15b")>] successed !
+2019-04-13 16:59:54,570 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-13 16:59:55,245 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-13 16:59:55,245 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-13 16:59:55,246 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-13 16:59:55,707 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-13 17:00:00,734 - myunittest.py:[38] - [INFO] - quit the browser success

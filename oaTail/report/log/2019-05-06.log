@@ -1,0 +1,18 @@
+2019-05-06 13:50:52,581 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-05-06 13:50:52,590 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-05-06 13:50:52,590 - doExecl.py:[43] - [INFO] - reading value [//input[@id="login"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-05-06 13:50:52,590 - doExecl.py:[43] - [INFO] - reading value [//input[@id="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-05-06 13:50:52,590 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-05-06 13:50:54,587 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="34cb0064f236715a821d7d99e0cca5d2")>] successed !
+2019-05-06 13:50:54,711 - myunittest.py:[16] - [INFO] - open the browser success
+2019-05-06 13:50:56,035 - base_page.py:[37] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-05-06 13:50:56,035 - base_page.py:[45] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-05-06 13:51:06,569 - base_page.py:[61] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 56, in findElement
+    EC.presence_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-05-06 13:51:09,634 - myunittest.py:[31] - [INFO] - quit the browser success

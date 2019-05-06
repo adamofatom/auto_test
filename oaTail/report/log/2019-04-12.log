@@ -1,0 +1,57 @@
+2019-04-12 14:45:07,717 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c19662119749b8fa9ad90ffe08128ff7")>] successed !
+2019-04-12 22:06:59,210 - doConfini.py:[15] - [ERROR] - read file[/Users/guchenghao/project/oatest/oaTail/config/config.ini] failed ,don't get the value
+Traceback (most recent call last):
+  File "/Users/guchenghao/project/oatest/oaTail/config/doConfini.py", line 12, in getConfValue
+    self.cf.read(filename)
+TypeError: read() missing 1 required positional argument: 'filenames'
+2019-04-12 22:10:05,810 - doConfini.py:[15] - [ERROR] - read file[/Users/guchenghao/project/oatest/oaTail/config/config.ini] for [project] failed ,don't get the value
+Traceback (most recent call last):
+  File "/Users/guchenghao/project/oatest/oaTail/config/doConfini.py", line 12, in getConfValue
+    self.cf.read(filename)
+TypeError: read() missing 1 required positional argument: 'filenames'
+2019-04-12 22:10:49,171 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:10:49,187 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:10:49,187 - doExecl.py:[36] - [ERROR] - read value from excel file fail
+Traceback (most recent call last):
+  File "/Users/guchenghao/project/oatest/oaTail/test_Case/models/doExecl.py", line 34, in readExcel
+    value = self.sheetName.cell(row, colnum).value
+  File "/Users/guchenghao/venv/oatest/lib/python3.7/site-packages/xlrd/sheet.py", line 412, in cell
+    self._cell_types[rowx][colx],
+IndexError: array index out of range
+2019-04-12 22:11:30,222 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:11:30,228 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:11:30,228 - doExecl.py:[39] - [INFO] - reading value [root1] from excel file [/Users/guchenghao/project/oatest/oaTail/data/testData/oa.xlsx] completed
+2019-04-12 22:12:08,095 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:12:08,112 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:12:08,112 - doExecl.py:[36] - [ERROR] - read value from excel file fail
+Traceback (most recent call last):
+  File "/Users/guchenghao/project/oatest/oaTail/test_Case/models/doExecl.py", line 34, in readExcel
+    value = self.sheetName.cell(row, colnum).value
+  File "/Users/guchenghao/venv/oatest/lib/python3.7/site-packages/xlrd/sheet.py", line 412, in cell
+    self._cell_types[rowx][colx],
+IndexError: array index out of range
+2019-04-12 22:12:17,837 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:12:17,845 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:12:17,845 - doExecl.py:[36] - [ERROR] - read value from excel file fail
+Traceback (most recent call last):
+  File "/Users/guchenghao/project/oatest/oaTail/test_Case/models/doExecl.py", line 34, in readExcel
+    value = self.sheetName.cell(row, colnum).value
+  File "/Users/guchenghao/venv/oatest/lib/python3.7/site-packages/xlrd/sheet.py", line 412, in cell
+    self._cell_types[rowx][colx],
+IndexError: array index out of range
+2019-04-12 22:12:24,846 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:12:24,853 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:12:24,853 - doExecl.py:[39] - [INFO] - reading value [root 1] from excel file [/Users/guchenghao/project/oatest/oaTail/data/testData/oa.xlsx] completed
+2019-04-12 22:12:35,092 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:12:35,099 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:12:35,099 - doExecl.py:[39] - [INFO] - reading value [user] from excel file [/Users/guchenghao/project/oatest/oaTail/data/testData/oa.xlsx] completed
+2019-04-12 22:12:43,139 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:12:43,145 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:12:43,146 - doExecl.py:[39] - [INFO] - reading value [password] from excel file [/Users/guchenghao/project/oatest/oaTail/data/testData/oa.xlsx] completed
+2019-04-12 22:12:53,948 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:12:53,955 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:12:53,956 - doExecl.py:[39] - [INFO] - reading value [root 1] from excel file [/Users/guchenghao/project/oatest/oaTail/data/testData/oa.xlsx] completed
+2019-04-12 22:12:59,963 - doConfini.py:[18] - [INFO] - read excel value [/Users/guchenghao/project/oatest] successed
+2019-04-12 22:12:59,970 - doExecl.py:[23] - [INFO] - initing  class readExcel
+2019-04-12 22:12:59,970 - doExecl.py:[39] - [INFO] - reading value [root 2] from excel file [/Users/guchenghao/project/oatest/oaTail/data/testData/oa.xlsx] completed
+2019-04-12 22:20:39,006 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5cb592f915f95fc4563462330701f4af")>] successed !

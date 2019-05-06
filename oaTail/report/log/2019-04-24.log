@@ -1,0 +1,508 @@
+2019-04-24 14:17:24,977 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:17:25,041 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:17:25,042 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:17:25,042 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:17:25,042 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:17:26,822 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c098d85927d574a9a0d0cafec4599c93")>] successed !
+2019-04-24 14:17:26,950 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:17:28,270 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:17:28,270 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:17:31,332 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:17:31,340 - testReport.py:[41] - [INFO] -  successed  to generate test report [2019-04-24 14_17_25_测试报告]
+2019-04-24 14:20:36,783 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:20:36,845 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:20:36,845 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:20:36,845 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:20:36,845 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:20:38,635 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="022ee29ea9c3ee1f18a3d5a6bce27ab1")>] successed !
+2019-04-24 14:20:38,768 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:20:39,973 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:20:39,973 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:20:43,033 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:20:43,041 - testReport.py:[41] - [INFO] -  successed  to generate test report [2019-04-24 14_20_36_测试报告]
+2019-04-24 14:21:07,825 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:21:07,833 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:21:07,834 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:21:07,834 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:21:07,834 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:21:09,605 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7c54318b50ce8c4905cb474ccd2e261b")>] successed !
+2019-04-24 14:21:09,745 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:21:10,919 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:21:10,919 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:21:13,978 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:21:38,991 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:21:38,998 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:21:38,998 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:21:38,998 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:21:38,998 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:21:40,731 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f482c47d9b0d339e16cd1d1396d4f785")>] successed !
+2019-04-24 14:21:40,857 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:21:42,130 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:21:42,130 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:21:45,189 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:23:51,612 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:23:51,618 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:23:51,619 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:23:51,619 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:23:51,619 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:23:53,343 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f372bc2dbc96f1e882e5d78cfa6cade7")>] successed !
+2019-04-24 14:23:53,448 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:23:54,697 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:23:54,697 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:23:57,758 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:25:46,070 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:25:46,076 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:25:46,076 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:25:46,077 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:25:46,077 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:25:47,807 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="78dcd45bfb594acbd246942b240e09c1")>] successed !
+2019-04-24 14:25:47,930 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:25:49,138 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:25:49,138 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:25:52,199 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:26:02,942 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:26:02,949 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:26:02,949 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:26:02,949 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:26:02,949 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:26:04,693 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5badec1755d09daf29a3a7570b3d4a64")>] successed !
+2019-04-24 14:26:04,825 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:26:06,009 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:26:06,009 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:26:16,033 - base_page.py:[59] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.invisibility_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-04-24 14:26:19,094 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:30:35,697 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:30:35,704 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:30:35,704 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:30:35,704 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:30:35,704 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:30:37,440 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e10321782ebab363b0ac58a6bbe082f7")>] successed !
+2019-04-24 14:30:37,564 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:30:38,804 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:30:38,804 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:30:48,851 - base_page.py:[59] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.invisibility_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-04-24 14:30:51,915 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:31:26,428 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:31:26,436 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:31:26,436 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:31:26,436 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:31:26,436 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:31:28,147 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e16c03cb95ffb26f29ccb168a2f846a6")>] successed !
+2019-04-24 14:31:28,260 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:31:29,459 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:31:29,459 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:31:39,496 - base_page.py:[59] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.invisibility_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-04-24 14:31:42,557 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:32:16,489 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:32:16,496 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:32:16,496 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:32:16,496 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:32:16,496 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:32:18,231 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="bebea33194bc62774710c20fdab6d60e")>] successed !
+2019-04-24 14:32:18,349 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:32:19,579 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:32:19,580 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:32:29,618 - base_page.py:[60] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.invisibility_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-04-24 14:32:32,680 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:34:05,633 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:34:05,639 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:34:05,640 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:34:05,640 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:34:05,640 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:34:07,376 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="68b5efffb340780be4fb5bd4db0b8c32")>] successed !
+2019-04-24 14:34:07,513 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:34:08,881 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:34:08,881 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:34:22,453 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:35:14,844 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:35:14,851 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:35:14,852 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:35:14,852 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:35:14,852 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:35:16,632 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="893d5987e58c8645f78e94b361df889e")>] successed !
+2019-04-24 14:35:16,737 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:35:19,328 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:35:19,328 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:35:29,358 - base_page.py:[60] - [ERROR] - finding element timeout!, details ('xpath', '//input[@type="text"]')
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.invisibility_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-04-24 14:35:32,420 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:38:12,713 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:38:12,720 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:38:12,720 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:38:12,720 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:38:12,720 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:38:14,439 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ca88943e7788de41ffb90dd56e29559b")>] successed !
+2019-04-24 14:38:14,582 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:38:15,793 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:38:15,793 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:38:15,840 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f54fd7a87b8> had already find the element ('xpath', '//input[@type="text"]')
+2019-04-24 14:38:16,222 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@type="text"]')] is receiveing value [han4@jiuhuar.com]
+2019-04-24 14:38:16,265 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f54fd7a87b8> had already find the element ('xpath', '//input[@type="password"]')
+2019-04-24 14:38:16,489 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@type="password"]')] is receiveing value [Jiuhuar2018!]
+2019-04-24 14:38:16,491 - base_page.py:[60] - [ERROR] - finding element timeout!, details (('xpath', '//button[@type="submit"]'),)
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.element_to_be_clickable(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 297, in __call__
+    element = visibility_of_element_located(self.locator)(driver)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 415, in _find_element
+    raise e
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Linux 4.15.0-46-generic x86_64)
+
+2019-04-24 14:38:19,555 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:40:03,191 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:40:03,197 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:40:03,198 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:40:03,198 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:40:03,198 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:40:04,892 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="410796579174b04f095192082899d4ef")>] successed !
+2019-04-24 14:40:05,038 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:40:06,513 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:40:06,513 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:40:06,534 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f5ee897a7b8> had already find the element ('xpath', '//input[@type="text"]')
+2019-04-24 14:40:06,944 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="text"]')] is receiveing value [han4@jiuhuar.com]
+2019-04-24 14:40:06,958 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f5ee897a7b8> had already find the element ('xpath', '//input[@type="password"]')
+2019-04-24 14:40:07,196 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="password"]')] is receiveing value [Jiuhuar2018!]
+2019-04-24 14:40:07,199 - base_page.py:[60] - [ERROR] - finding element timeout!, details (('xpath', '//button[@type="submit"]'),)
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.presence_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 415, in _find_element
+    raise e
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Linux 4.15.0-46-generic x86_64)
+
+2019-04-24 14:40:10,262 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:41:05,121 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:41:05,128 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:41:05,128 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:41:05,128 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:41:05,128 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:41:06,856 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6971353427593c77104c662004dd72c3")>] successed !
+2019-04-24 14:41:06,996 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:41:08,193 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:41:08,193 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:41:08,210 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7fa0848b67f0> had already find the element ('xpath', '//input[@type="text"]')
+2019-04-24 14:41:08,596 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="text"]')] is receiveing value [han4@jiuhuar.com]
+2019-04-24 14:41:08,610 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7fa0848b67f0> had already find the element ('xpath', '//input[@type="password"]')
+2019-04-24 14:41:08,837 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="password"]')] is receiveing value [Jiuhuar2018!]
+2019-04-24 14:41:08,840 - base_page.py:[60] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.presence_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 415, in _find_element
+    raise e
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Linux 4.15.0-46-generic x86_64)
+
+2019-04-24 14:41:11,902 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:43:28,065 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:43:28,072 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:43:28,072 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:43:28,072 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:43:28,072 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:43:29,791 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2e59157e3556ac9ee97bdeb52e811124")>] successed !
+2019-04-24 14:43:29,937 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:43:32,574 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:43:32,574 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:43:32,593 - base_page.py:[63] - [INFO] - This page of  had already find the element ('xpath', '//input[@type="text"]')
+2019-04-24 14:43:32,981 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="text"]')] is receiveing value [han4@jiuhuar.com]
+2019-04-24 14:43:32,996 - base_page.py:[63] - [INFO] - This page of  had already find the element ('xpath', '//input[@type="password"]')
+2019-04-24 14:43:33,231 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="password"]')] is receiveing value [Jiuhuar2018!]
+2019-04-24 14:43:33,233 - base_page.py:[60] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.presence_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 415, in _find_element
+    raise e
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Linux 4.15.0-46-generic x86_64)
+
+2019-04-24 14:43:36,293 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:44:50,911 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:44:50,917 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:44:50,917 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:44:50,918 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:44:50,918 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:44:51,680 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f4b3d8f0b12415325cfc5933eedda79c")>] successed !
+2019-04-24 14:44:51,827 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:44:53,098 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:44:53,099 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:44:53,115 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f97b207b7f0> had already find the element ('xpath', '//input[@type="text"]')
+2019-04-24 14:44:53,516 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="text"]')] is receiveing value [han4@jiuhuar.com]
+2019-04-24 14:44:53,530 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f97b207b7f0> had already find the element ('xpath', '//input[@type="password"]')
+2019-04-24 14:44:53,747 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="password"]')] is receiveing value [Jiuhuar2018!]
+2019-04-24 14:44:53,749 - base_page.py:[60] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 55, in findElement
+    EC.presence_of_element_located(loc)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 415, in _find_element
+    raise e
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Linux 4.15.0-46-generic x86_64)
+
+2019-04-24 14:44:56,811 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:46:59,483 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:46:59,490 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:46:59,490 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:46:59,490 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:46:59,490 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:47:13,083 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:47:13,089 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:47:13,090 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:47:13,090 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:47:13,090 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:47:14,853 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="42ac00e0974c535af370b6a8f24058e4")>] successed !
+2019-04-24 14:47:14,976 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:47:16,269 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:47:16,269 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:47:16,288 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f6130c547f0> had already find the element ('xpath', '//input[@type="text"]')
+2019-04-24 14:47:16,685 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="text"]')] is receiveing value [han4@jiuhuar.com]
+2019-04-24 14:47:16,699 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f6130c547f0> had already find the element ('xpath', '//input[@type="password"]')
+2019-04-24 14:47:16,939 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="password"]')] is receiveing value [Jiuhuar2018!]
+2019-04-24 14:47:16,955 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f6130c547f0> had already find the element ('xpath', '//button[@type="submit"]')
+2019-04-24 14:47:17,067 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-24 14:47:17,285 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-24 14:47:20,344 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:48:13,235 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 14:48:13,298 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 14:48:13,298 - doExecl.py:[43] - [INFO] - reading value [//input[@type="text"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:48:13,298 - doExecl.py:[43] - [INFO] - reading value [//input[@type="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:48:13,298 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 14:48:15,016 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5459304197ed8b4a5267bf0d6a75c79a")>] successed !
+2019-04-24 14:48:15,138 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 14:48:16,529 - base_page.py:[36] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-24 14:48:16,529 - base_page.py:[44] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-24 14:48:16,548 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f78e870e8d0> had already find the element ('xpath', '//input[@type="text"]')
+2019-04-24 14:48:16,935 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="text"]')] is receiveing value [han4@jiuhuar.com]
+2019-04-24 14:48:16,951 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f78e870e8d0> had already find the element ('xpath', '//input[@type="password"]')
+2019-04-24 14:48:17,176 - base_page.py:[102] - [INFO] - inputValue:[('xpath', '//input[@type="password"]')] is receiveing value [Jiuhuar2018!]
+2019-04-24 14:48:17,189 - base_page.py:[63] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f78e870e8d0> had already find the element ('xpath', '//button[@type="submit"]')
+2019-04-24 14:48:17,297 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-24 14:48:18,220 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-24 14:48:21,283 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 14:48:21,292 - testReport.py:[41] - [INFO] -  successed  to generate test report [2019-04-24 14_48_13_测试报告]
+2019-04-24 15:07:31,724 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 15:07:31,733 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 15:07:31,733 - doExecl.py:[43] - [INFO] - reading value [//input[@id="login"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:07:31,734 - doExecl.py:[43] - [INFO] - reading value [//input[@id="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:07:31,734 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:07:33,590 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="dba9b2b88a497a41ef77834132b456ba")>] successed !
+2019-04-24 15:07:33,705 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 15:07:34,513 - base_page.py:[37] - [INFO] - _open is accessing address http://127.0.0.1:8068/web/login at line[46]
+2019-04-24 15:07:34,513 - base_page.py:[45] - [INFO] - http://127.0.0.1:8068/web/login loading successed!
+2019-04-24 15:07:34,533 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7fa058b82940> had already find the element ('xpath', '//input[@id="login"]')
+2019-04-24 15:07:44,569 - base_page.py:[99] - [ERROR] - typing value error!
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/page_obj/base_page.py", line 96, in inputValue
+    element.clear()
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 95, in clear
+    self._execute(Command.CLEAR_ELEMENT)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Linux 4.15.0-46-generic x86_64)
+
+2019-04-24 15:07:47,632 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 15:11:31,352 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 15:11:31,360 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 15:11:31,360 - doExecl.py:[43] - [INFO] - reading value [//input[@id="login"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:11:31,361 - doExecl.py:[43] - [INFO] - reading value [//input[@id="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:11:31,361 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:11:31,361 - doExecl.py:[40] - [ERROR] - read value from excel file fail
+Traceback (most recent call last):
+  File "/home/gu/PycharmProjects/auto_test/oaTail/test_Case/models/doExecl.py", line 37, in readExcel
+    value = self.sheetName.cell(row, colnum).value
+  File "/home/gu/.virtualenvs/auto_test/lib/python3.6/site-packages/xlrd/sheet.py", line 412, in cell
+    self._cell_types[rowx][colx],
+IndexError: array index out of range
+2019-04-24 15:11:55,503 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 15:11:55,509 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 15:11:55,510 - doExecl.py:[43] - [INFO] - reading value [//input[@id="login"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:11:55,510 - doExecl.py:[43] - [INFO] - reading value [//input[@id="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:11:55,510 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:11:57,228 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b6b33f546451932580766c70e4d093d2")>] successed !
+2019-04-24 15:11:57,397 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 15:11:57,828 - base_page.py:[37] - [INFO] - _open is accessing address http://127.0.0.1:8068/web?db=odoo-demo at line[46]
+2019-04-24 15:11:57,828 - base_page.py:[45] - [INFO] - http://127.0.0.1:8068/web?db=odoo-demo loading successed!
+2019-04-24 15:11:57,849 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f6ac3d2c940> had already find the element ('xpath', '//input[@id="login"]')
+2019-04-24 15:11:57,933 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="login"]')] is receiveing value [root]
+2019-04-24 15:11:57,948 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f6ac3d2c940> had already find the element ('xpath', '//input[@id="password"]')
+2019-04-24 15:11:58,022 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="password"]')] is receiveing value [123]
+2019-04-24 15:11:58,037 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f6ac3d2c940> had already find the element ('xpath', '//button[@type="submit"]')
+2019-04-24 15:11:59,190 - testLogin.py:[15] - [INFO] - ************************starting run test cases************************
+2019-04-24 15:11:59,874 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-24 15:12:02,934 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 15:12:46,217 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 15:12:46,224 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 15:12:46,224 - doExecl.py:[43] - [INFO] - reading value [//input[@id="login"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:12:46,224 - doExecl.py:[43] - [INFO] - reading value [//input[@id="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:12:46,224 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:12:48,054 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="62539f70aff1441b372d4da3816c3c04")>] successed !
+2019-04-24 15:12:48,161 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 15:12:48,681 - base_page.py:[37] - [INFO] - _open is accessing address http://127.0.0.1:8068/web?db=odoo-demo at line[46]
+2019-04-24 15:12:48,681 - base_page.py:[45] - [INFO] - http://127.0.0.1:8068/web?db=odoo-demo loading successed!
+2019-04-24 15:12:48,698 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f749e07c908> had already find the element ('xpath', '//input[@id="login"]')
+2019-04-24 15:12:48,781 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="login"]')] is receiveing value [root]
+2019-04-24 15:12:48,801 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f749e07c908> had already find the element ('xpath', '//input[@id="password"]')
+2019-04-24 15:12:48,884 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="password"]')] is receiveing value [123]
+2019-04-24 15:12:48,897 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f749e07c908> had already find the element ('xpath', '//button[@type="submit"]')
+2019-04-24 15:12:49,516 - testLogin.py:[15] - [INFO] - ************************starting run test cases************************
+2019-04-24 15:12:49,962 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-24 15:12:53,022 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 15:13:47,155 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 15:13:47,162 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 15:13:47,162 - doExecl.py:[43] - [INFO] - reading value [//input[@id="login"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:13:47,162 - doExecl.py:[43] - [INFO] - reading value [//input[@id="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:13:47,162 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:13:48,912 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="93f5cf9018fa1e405f338c6e11a751d5")>] successed !
+2019-04-24 15:13:49,057 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 15:13:49,467 - base_page.py:[37] - [INFO] - _open is accessing address http://127.0.0.1:8068/web?db=odoo-demo at line[46]
+2019-04-24 15:13:49,467 - base_page.py:[45] - [INFO] - http://127.0.0.1:8068/web?db=odoo-demo loading successed!
+2019-04-24 15:13:49,496 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7ff95e37b940> had already find the element ('xpath', '//input[@id="login"]')
+2019-04-24 15:13:49,579 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="login"]')] is receiveing value [root]
+2019-04-24 15:13:49,594 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7ff95e37b940> had already find the element ('xpath', '//input[@id="password"]')
+2019-04-24 15:13:49,672 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="password"]')] is receiveing value [123]
+2019-04-24 15:13:49,686 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7ff95e37b940> had already find the element ('xpath', '//button[@type="submit"]')
+2019-04-24 15:13:50,280 - testLogin.py:[15] - [INFO] - ************************starting run test cases************************
+2019-04-24 15:13:50,716 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-24 15:13:53,777 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 15:14:09,969 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 15:14:09,976 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 15:14:09,976 - doExecl.py:[43] - [INFO] - reading value [//input[@id="login"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:14:09,976 - doExecl.py:[43] - [INFO] - reading value [//input[@id="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:14:09,976 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:14:11,690 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="4c2f82616da005ddf0ff927444b12ddf")>] successed !
+2019-04-24 15:14:11,829 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 15:14:12,249 - base_page.py:[37] - [INFO] - _open is accessing address http://127.0.0.1:8068/web?db=odoo-demo at line[46]
+2019-04-24 15:14:12,250 - base_page.py:[45] - [INFO] - http://127.0.0.1:8068/web?db=odoo-demo loading successed!
+2019-04-24 15:14:12,267 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7fda2d0d7908> had already find the element ('xpath', '//input[@id="login"]')
+2019-04-24 15:14:12,351 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="login"]')] is receiveing value [root]
+2019-04-24 15:14:12,365 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7fda2d0d7908> had already find the element ('xpath', '//input[@id="password"]')
+2019-04-24 15:14:12,442 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="password"]')] is receiveing value [123]
+2019-04-24 15:14:12,457 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7fda2d0d7908> had already find the element ('xpath', '//button[@type="submit"]')
+2019-04-24 15:14:13,048 - testLogin.py:[15] - [INFO] - ************************starting run test cases************************
+2019-04-24 15:14:13,709 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-24 15:14:16,772 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-24 15:14:28,788 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-24 15:14:28,795 - doExecl.py:[26] - [INFO] - initing  class readExcel
+2019-04-24 15:14:28,796 - doExecl.py:[43] - [INFO] - reading value [//input[@id="login"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:14:28,796 - doExecl.py:[43] - [INFO] - reading value [//input[@id="password"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:14:28,796 - doExecl.py:[43] - [INFO] - reading value [//button[@type="submit"]] from excel file [/home/gu/PycharmProjects/auto_test/oaTail/data/testData/login.xlsx] completed
+2019-04-24 15:14:30,557 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="903e3553a01cb919c86c094311003eb8")>] successed !
+2019-04-24 15:14:30,688 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-24 15:14:31,099 - base_page.py:[37] - [INFO] - _open is accessing address http://127.0.0.1:8068/web?db=odoo-demo at line[46]
+2019-04-24 15:14:31,100 - base_page.py:[45] - [INFO] - http://127.0.0.1:8068/web?db=odoo-demo loading successed!
+2019-04-24 15:14:31,119 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f51c1365898> had already find the element ('xpath', '//input[@id="login"]')
+2019-04-24 15:14:31,200 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="login"]')] is receiveing value [root]
+2019-04-24 15:14:31,216 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f51c1365898> had already find the element ('xpath', '//input[@id="password"]')
+2019-04-24 15:14:31,292 - base_page.py:[103] - [INFO] - inputValue:[('xpath', '//input[@id="password"]')] is receiveing value [123]
+2019-04-24 15:14:31,308 - base_page.py:[64] - [INFO] - The page of <oaTail.test_Case.page_obj.loginPage.loginPage object at 0x7f51c1365898> had already find the element ('xpath', '//button[@type="submit"]')
+2019-04-24 15:14:31,899 - testLogin.py:[15] - [INFO] - ************************starting run test cases************************
+2019-04-24 15:14:32,338 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-24 15:14:35,399 - myunittest.py:[38] - [INFO] - quit the browser success

@@ -1,0 +1,125 @@
+2019-04-16 16:12:53,030 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:12:53,031 - sendEmail.py:[27] - [INFO] - open and read file [/home/gu/PycharmProjects/auto_test/oaTail/report/testReport/test.html] successed!
+2019-04-16 16:12:53,303 - sendEmail.py:[47] - [INFO] - email server [<smtplib.SMTP object at 0x7fb6a80f6668>] login success!
+2019-04-16 16:12:54,142 - sendEmail.py:[55] - [INFO] - send emial successed
+2019-04-16 16:14:17,129 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:14:18,982 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="548a5dd4615762a2d48d6ad568fd924e")>] successed !
+2019-04-16 16:14:19,101 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:14:26,023 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:14:26,023 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:14:26,023 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:14:26,260 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:14:29,320 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:14:45,301 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:14:47,064 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2e1f3a4e6494a532e1b81592a001f83d")>] successed !
+2019-04-16 16:14:47,186 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:14:48,443 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:14:48,443 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:14:48,443 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:14:48,689 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:14:51,753 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:15:36,876 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:15:38,572 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="75e66152d2fe77efc6510d6d32da3b61")>] successed !
+2019-04-16 16:15:38,692 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:15:40,715 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:15:40,715 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:15:40,716 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:15:40,937 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:15:43,996 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:20:05,412 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:20:07,158 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1797f87dc5c30a8b85af0c020ddb09c8")>] successed !
+2019-04-16 16:20:07,290 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:20:09,278 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:20:09,278 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:20:09,278 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:20:09,521 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:20:12,580 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:20:46,602 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:21:10,775 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:21:12,497 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ff96c3f0c43cec8ae3bf1bc2ecc9b050")>] successed !
+2019-04-16 16:21:12,629 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:21:13,928 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:21:13,928 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:21:13,928 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:21:14,160 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:21:17,221 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:25:40,057 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:26:17,804 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:26:36,869 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:26:38,684 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="731893160b42885f533790ae08212543")>] successed !
+2019-04-16 16:26:38,805 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:26:40,322 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:26:40,322 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:26:40,323 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:26:40,743 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:26:43,809 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:26:48,635 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:26:49,436 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3ae1233c4549b0b0997a6608bf406065")>] successed !
+2019-04-16 16:26:49,571 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:26:50,805 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:26:50,805 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:26:50,805 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:26:51,187 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:26:54,255 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:27:16,448 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:27:17,167 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1c20b0b8863e3d5c35753ad47643554c")>] successed !
+2019-04-16 16:27:17,286 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:27:19,441 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:27:19,441 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:27:19,441 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:27:19,819 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:27:22,885 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:27:30,804 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:27:31,550 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="516ac14079088eafe3edc9e72032487b")>] successed !
+2019-04-16 16:27:31,663 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:27:32,991 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:27:32,991 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:27:32,991 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:27:33,233 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:27:36,304 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:27:54,107 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:27:54,892 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="dc3f6b597af66bace55d75839b8e6dd3")>] successed !
+2019-04-16 16:27:55,028 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:27:56,282 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:27:56,282 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:27:56,282 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:27:56,648 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:27:59,664 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 16:28:49,343 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 16:28:50,095 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="60829a8b0e1f556f9285b846a70c21de")>] successed !
+2019-04-16 16:28:50,213 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 16:28:51,748 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 16:28:51,748 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 16:28:51,748 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 16:28:51,979 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 16:28:55,047 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 17:16:57,174 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 17:16:58,892 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="31c83de040566de10840aeee285bb913")>] successed !
+2019-04-16 17:16:59,006 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 17:17:01,784 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 17:17:01,784 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 17:17:01,784 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 17:19:32,354 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 17:20:47,226 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 17:20:48,985 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2daae0c507d377ac95bff8ab02f9f6d9")>] successed !
+2019-04-16 17:20:49,090 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 17:20:51,321 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 17:20:51,321 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 17:20:51,321 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 17:20:54,379 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 17:22:38,774 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 17:22:40,517 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6c1eeb1e4f22b539dfdb897f61b64e08")>] successed !
+2019-04-16 17:22:40,640 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 17:22:41,895 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 17:22:41,895 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 17:22:41,895 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 17:22:42,134 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 17:22:45,196 - myunittest.py:[38] - [INFO] - quit the browser success
+2019-04-16 17:23:28,557 - doConfini.py:[18] - [INFO] - read excel value [/home/gu/PycharmProjects/auto_test] successed
+2019-04-16 17:23:30,287 - driver.py:[19] - [INFO] - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2868e75fd49ed92e63cc10b5beb65d80")>] successed !
+2019-04-16 17:23:30,395 - myunittest.py:[16] - [INFO] - open the browser success
+2019-04-16 17:23:31,643 - base_page.py:[27] - [INFO] - _open is accessing address http://preview.sms.jiuhuar.com/login at line[46]
+2019-04-16 17:23:31,644 - base_page.py:[35] - [INFO] - http://preview.sms.jiuhuar.com/login loading successed!
+2019-04-16 17:23:31,644 - myunittest.py:[22] - [INFO] - ************************starting run test cases************************
+2019-04-16 17:23:31,864 - myunittest.py:[30] - [INFO] - ************************test case run complete************************
+2019-04-16 17:23:34,924 - myunittest.py:[38] - [INFO] - quit the browser success
